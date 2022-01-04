@@ -7,7 +7,7 @@
  
  c. generate_tfrecord.py :- to create tfrecord file for training and testing data.
  
- d. object_detection_tutorial.ipynb:- run the inference file for live cam object detection.
+ d. object_detection_tutorial.ipynb:- run the inference file for object detection.
  
  e. xml_to_csv.py :- Generate the csv file for training and testing images
  
