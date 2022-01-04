@@ -16,15 +16,19 @@
 2. run this command for generating csv file for training and testing images 
  
  python xml_to_csv.py
+ 
 3.  run this command for generting labelmap.pbtxt file 
  
  python generate_labelmap.py
+
 4. Generate tfrecord file for training by this command 
  
  python generate_tfrecord.py --csv_input=images/train_labels.csv --image_dir=images/train --output_path=train.record
+
 5. Generate tfrecord file for training by this command
  
  python generate_tfrecord.py --csv_input=images/test_labels.csv --image_dir=images/test --output_path=test.record
+
 6. Here are the argument to be updated on the config file for model training 
  num_classes: 30  [give number of classes here]
  learning_rate_base: 8e-3
