@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20211119_025955_resize_49.jpg</filename>
+	<path>C:\Object_detection\models-master\research\object_detection\images\train\IMG_20211119_025955_resize_49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>591</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hydroquinone(C6H6O2)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>62</ymin>
+			<xmax>495</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20211118_221247_compress17.jpg</filename>
+	<path>C:\Object_detection\models-master\research\object_detection\images\train\IMG_20211118_221247_compress17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4138</width>
+		<height>1158</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Styrene(C8H8)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>268</ymin>
+			<xmax>1912</xmax>
+			<ymax>1109</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Phthalic Acid(C8H6O4)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2059</xmin>
+			<ymin>43</ymin>
+			<xmax>3062</xmax>
+			<ymax>1001</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Salicylic Acid(C7H6O3)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3195</xmin>
+			<ymin>43</ymin>
+			<xmax>4048</xmax>
+			<ymax>940</ymax>
+		</bndbox>
+	</object>
+</annotation>

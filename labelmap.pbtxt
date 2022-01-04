@@ -1,0 +1,116 @@
+item {
+  id:1
+  name:'Benzene(C6H6)'
+}
+item {
+  id:2
+  name:'Phenol(C6H6O)'
+}
+item {
+  id:3
+  name:'Aniline(C6H5NH2)'
+}
+item {
+  id:4
+  name:'Toluene(C7H8)'
+}
+item {
+  id:5
+  name:'Bromobenzene(C6H5Br)'
+}
+item {
+  id:6
+  name:'Nitrobenzene(C6H5NO2)'
+}
+item {
+  id:7
+  name:'Iodobenzene(C6H5I)'
+}
+item {
+  id:8
+  name:'Naphthalene(C10H8)'
+}
+item {
+  id:9
+  name:'Biphenyl(C12H10)'
+}
+item {
+  id:10
+  name:'Anthracene(C14H10)'
+}
+item {
+  id:11
+  name:'Ethylbenzene(C8H10)'
+}
+item {
+  id:24
+  name:'Terephthalic Acid(C8H6O4)'
+}
+item {
+  id:13
+  name:'P-Xylene(C8H10)'
+}
+item {
+  id:14
+  name:'Dimethyl Terephthalate(C10H10O4)'
+}
+item {
+  id:15
+  name:'Diethyl Terephthalate(C12H14O4)'
+}
+item {
+  id:16
+  name:'Acetophenone(C8H8O)'
+}
+item {
+  id:17
+  name:'Benzaldehyde(C7H6O)'
+}
+item {
+  id:18
+  name:'Benzoic Acid(C7H6O2)'
+}
+item {
+  id:19
+  name:'Benzonitrile(C7H5N)'
+}
+item {
+  id:20
+  name:'Ortho-Xylene(C8H10)'
+}
+item {
+  id:21
+  name:'Styrene(C8H8)'
+}
+item {
+  id:22
+  name:'Phthalic Acid(C8H6O4)'
+}
+item {
+  id:23
+  name:'Salicylic Acid(C7H6O3)'
+}
+item {
+  id:25
+  name:'Chlorobenzene(C6H5Cl)'
+}
+item {
+  id:26
+  name:'Anisole(C7H8O)'
+}
+item {
+  id:27
+  name:'Benzenesulfonic Acid(C6H6SO3)'
+}
+item {
+  id:28
+  name:'m-cresol(C7H8O)'
+}
+item {
+  id:29
+  name:'Cumene(C9H12)'
+}
+item {
+  id:30
+  name:'Hydroquinone(C6H6O2)'
+}
