@@ -1,5 +1,11 @@
 # Handwritten-Chemical_Compound-Detection
 
+![object_detection_output](https://user-images.githubusercontent.com/42176802/148070490-75ee29fa-f111-492c-8938-be14f40dfb80.png)
+
+
+![output_in_text_format](https://user-images.githubusercontent.com/42176802/148070690-b9e20903-abb6-4ef6-bf25-14c8e089ba79.png)
+
+
 ## Steps:-
  a.  PowerShell script to install and set up tensorflow object detection api.
  
