@@ -1,5 +1,12 @@
 # Handwritten-Chemical_Compound-Detection
 
+
+## [Live Site](https://github.com/Anupam0202/Handwritten-Chemical_Compound-Detection/blob/main/object_detection_tutorial.ipynb)
+
+## [Object Detection Folder](https://drive.google.com/drive/folders/1W85c8BywJpW8qxSp7bpLW6Hmm-pRp5F0?usp=sharing)
+
+## [Google Colab Training](https://colab.research.google.com/drive/1XoAuZd2c0sjo_hxrTmynoPY1VnWl-YG-?usp=sharing)
+
 ![object_detection_output](https://user-images.githubusercontent.com/42176802/148070490-75ee29fa-f111-492c-8938-be14f40dfb80.png)
 
 
