@@ -30,7 +30,7 @@
  
    python xml_to_csv.py
  
-3. run this command for generting labelmap.pbtxt file 
+3. run this command for generating labelmap.pbtxt file 
  
    python generate_labelmap.py
 
